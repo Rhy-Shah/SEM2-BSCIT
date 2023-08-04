@@ -1,0 +1,6 @@
+Pracs5: Inheritance 
+a. Design a class for single level inheritance using public derivation.
+b. Design a class for single level inheritance using private derivation.
+c. Design a class for multilevel inheritance.
+d. Design a class to implement Multiple Inheritance.
+e. Design a class to implement Hybrid Inheritance.

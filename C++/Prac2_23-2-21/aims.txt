@@ -1,0 +1,4 @@
+2. Using friend functions.
+a) Write a friend function for adding the two complex numbers, using a single class
+b) Write a friend function for adding the two different distances and display its sum, using two classes.
+c) Write a friend function for adding the two matrix from two different classes and display its sum

@@ -1,0 +1,1 @@
+d. Write a program to demonstrate function definition outside class and accessing class members in function definition.

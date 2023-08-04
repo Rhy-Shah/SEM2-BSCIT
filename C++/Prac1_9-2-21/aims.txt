@@ -1,0 +1,6 @@
+Pracs 1a. Design an item class for reading and displaying the item details
+information, the getdata() and putdata() methods will be used respectively. Where all methods will be public method
+
+b. Design the class student containing getData() and displayData() as two of its methods which will be used for reading and displaying the student information respectively.Where getData() will be private method
+
+Design the class Demo which will contain the following methods:readNo(), factorial() for calculating the factorial of a number, reverseNo() will reverse the given number, isPalindrome() will check the given number is palindrome, isArmstrong() which will calculate the given number is armStrong or not.Where readNo() willbe privatemethod.

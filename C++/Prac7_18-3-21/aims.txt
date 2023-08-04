@@ -1,0 +1,4 @@
+Virtual functions and abstract classes
+a) Implement the concept of method overriding.
+b) Show the use of virtual function.
+c) Show the implementation of abstract class.

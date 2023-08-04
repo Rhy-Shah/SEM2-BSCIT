@@ -1,0 +1,3 @@
+Exception handling
+a) Show the implementation of exceptionhandling
+b) Show the implementation for exception handling forstrings
